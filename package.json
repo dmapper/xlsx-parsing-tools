@@ -8,7 +8,5 @@
   },
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "node-expat": "^2.3.16"
-  }
+  "dependencies": {}
 }
